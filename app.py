@@ -13,6 +13,7 @@ model_training = st.container()
 with header:
     st.title("Kasti App")
     st.text("Analyzing the Titanic Dataset")
+    st.title("My App")
 
 with datasets:
     st.title("Kashti Data")
